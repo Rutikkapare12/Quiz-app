@@ -1,5 +1,4 @@
 # Quiz application 
-# Quiz application made in react using quiz api
  
 # Getting Started with Create React App
 
